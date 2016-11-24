@@ -1,5 +1,10 @@
 # varbee-ghost-theme
-勤奋蜂团队御用ghost博客主题
+
+> 勤奋蜂团队御用ghost博客主题
+
+### 开发规范
+
+所有开发都在dev分支上开发，请勿直接在master分支上直接开发，master分支仅做发布之用。
 
 <br>
 
